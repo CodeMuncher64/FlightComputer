@@ -1,3 +1,4 @@
+
 import sympy as sp
 print(dir(sp))
 x = sp.symbols('x')
