@@ -1,2 +1,2 @@
-disregard the code in the main directory everything. all the code other then flightcomputer-main
+disregard the code in the main directory. all the code other then flightcomputer-main
 is only for archiving
